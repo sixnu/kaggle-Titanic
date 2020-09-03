@@ -2,6 +2,7 @@
 Titanic: Machine Learning from Disaster
 
 变量名称：
+
 PassengerId 整型变量，标识乘客的ID
 
 Survived 整型变量，标识该乘客是否幸存。
