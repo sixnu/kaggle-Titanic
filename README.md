@@ -2,7 +2,7 @@
 Titanic: Machine Learning from Disaster
 
 变量名称：
-PassengerId 整型变量，标识乘客的ID，递增变量/n
+PassengerId 整型变量，标识乘客的ID，递增变量
 Survived 整型变量，标识该乘客是否幸存。0表示遇难，1表示幸存。将其转换为factor变量比较方便处理
 Pclass 整型变量，标识乘客的社会-经济状态，1代表Upper，2代表Middle，3代表Lower
 Name 字符型变量，除包含姓和名以外，还包含Mr. Mrs. Dr.这样的具有西方文化特点的信息
